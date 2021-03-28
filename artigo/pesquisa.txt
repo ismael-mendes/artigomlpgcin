@@ -1,0 +1,23 @@
+# Bibliografia
+
+Mathematics for Machine Learning: https://mml-book.github.io/
+
+Excelente Journal: 
+http://www.jmlr.org/
+
+# Artigos sobre "predict citation count"
+
+The Journal Impact Factor of Orthopaedic Journals Does not Predict Individual Paper Citation Rate
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6132331/
+
+Towards a stratified learning approach to predict future citation counts
+https://ieeexplore.ieee.org/abstract/document/6970190
+
+Can we predict citation counts of environmental modelling papers? Fourteen bibliographic and categorical variables predict less than 30% of the variability in citation counts
+https://doi.org/10.1016/j.envsoft.2015.10.007
+
+Using content-based and bibliometric features for machine learning models to predict citation counts in the biomedical literature
+https://akjournals.com/view/journals/11192/85/1/article-p257.xml
+
+Can Scientific Publication's Network Structural Features Predict its Citation?
+https://dl.acm.org/doi/abs/10.1145/3383583.3398575?casa_token=a4mv8dcOY3MAAAAA%3AVbGp-4aKG9zCeDpf1Tlsur7KS_yaFS5DRACOpshmeq3aXg4zC033x6dF1jKju8gWWo64P-XBI2HzPA

@@ -1,0 +1,10 @@
+# Diretrizes para o Projeto
+
+Os projetos de Implementação devem ser entregues por meio de artigo no google docs ou overleaf (preferencial)  contendo as seções:
+
+Descrição do problema a ser trabalhado
+Metodologia (Descrição dos algoritmos, parâmetros, Data Cleaning)
+Resultados e Discussão
+O documento deve ser entregue até 01/03/2021
+
+Na metodologia deve conter o link para o dataset e os códigos fontes (preferência no github)
