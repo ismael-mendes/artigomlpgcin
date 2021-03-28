@@ -8,5 +8,3 @@ O código fonte do script foi escrito utilizando o Google Colab:
 https://colab.research.google.com/drive/1O168ViMlcTPrpOGJKxJyd2ZFU3ss4tJ_?usp=sharing
 
 Ismael Mendes dos Santos Junior
-ismael.mendes@gmail.com
-(38) 98811-7738
